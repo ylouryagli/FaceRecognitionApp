@@ -33,7 +33,7 @@ console.log(event.target.value);
         name: 'face-detection',
         version: '6dc7e46bc9124c5c8824be4822abe105',
         type: 'visual-detector',
-        }, "https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW4lMjBmYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+        }, "https://www.faceapp.com/static/img/content/compare/beard-example-before@3x.jpg"
     ).then(
       function(response){
         console.log("response");
